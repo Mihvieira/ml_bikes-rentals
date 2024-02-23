@@ -28,6 +28,9 @@ Em seguida clique em:
 
 ![image](https://github.com/Mihvieira/ml_bikes-rentals/assets/136247614/cfa61472-d5ae-45df-bae0-f092c116f927)
 
+Preencha as informações básicas
+![image](https://github.com/Mihvieira/ml_bikes-rentals/assets/136247614/d5e1155d-b875-40ab-a904-2e6a85e95aff)
+
 
 
 # Final - Testando o modelo
