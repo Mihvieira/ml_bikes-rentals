@@ -1,5 +1,5 @@
 # Introdução 
-Modelo de Machine Learning criado no Azure durante o curso da DIO
+Modelo de Machine Learning criado no Azure durante o curso da DIO - Microsoft Azure AI Fundamentals
 
 # Objetivos
 Recriar os passos do tutorial: [Link](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
